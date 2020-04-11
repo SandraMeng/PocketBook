@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont.eot?t=1585756084518'); /* IE9 */
+  src: url('../fonts/iconfont.eot?t=1585756084518#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOUAAsAAAAACBgAAANIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDcIMxATYCJAMMCwgABCAFhG0HRhsHB8gekiQBBRIlATgAgAKCqHTo3v9LliUTUA9BQjlI2DJMD9iljQbX2u5RS/gwe0+IWT3d7nzHbq8J8VDIhEQmiSYqDc9E6tdf7h/3jn/jPLD5LMtpjsWfmjQWBxToHhht4QLpIoq9YXrhlAbiOARwyaAXrkWrxU2Qj0GOE0AmjFVFkJ9RYRqyBQfBrlhqkE1YOGq1egZsDN4vv6gRBxSWRp7UZdSUAka/mq9x2g98Buh9mqY7DcACNFAGwIAMqjT1ISsKlZGFS0XZzck2BkFN5Q0CCFhMYm/0j6dAbGRmGABFMKzgqzE0CHyNC6OA618FNhAKHAEeIXycw2BFyS9rqy0MC5vvPr7L4vJ9S+/lY64c+TA8W82Ipl893+X2nsk7cSqZYtlzZs0pcNe8e/UO419+/d6L/Pixt/X2YYIH/NNrz6ZKOLtOFx4/myLe9dfplMvBt3Mjzt9k6Gi171W/sPNt/vb48J07m3b0SCbH6Qa/S5vZnF2rTZvVqNYZJU35f9ApH0SPVkzurDiN1ltKUWwnNzpPrewkLaPVTbWjLcutN9k4v+WiHcpw33wn+LwR0nenyV2VuBVzXbFd3KqYmNPoYiLEcyd7T+bGS3+9nYWz8q573w6ZtX3T7bAgMXPpof+JgbtSEP4m/mU4M0OQI7WvGwABndFL/uhn6Pb+2IrBkYP/HM8A8OXMp2uBI2BANws492sW+H/sjgWGcaVaG8IyLBHVDCPn7ShxmZi/lgsQw8dwSXznTBAc4hNQhJAOGoc8xODLwMKjDmwc6sGllJnVHrFQshATCpRwBECI4goUETwETRSviMG/g0UCf2ATJRpceknVlh4FMtadmIZEhhQopaAuEwdrLSsMs9eRGrNEmuYGxG1EPd0LQ/5gPjqDHESnmOHF1TBjGGJKbDgNTkOWRaBLiYFk5tcYc/sDAVx1Ib9MbFBIcygIEQZCASKRAqIjQ3DArjujsPD6dRAqMSxEaAMqpd8GQfHQ+4eE8BPsgMyInE6oWznHI45KGAYDA8FQCDaQaWBAWCpEgLjVgwwQMgw/2oCASz8BVAp3FfmXl9jvtwdwkdO0KNFiiJ/tKWmJ13upacYnk+kk7xnYyqZjd3QAAA==') format('woff2'),
+  url('../fonts/iconfont.woff?t=1585756084518') format('woff'),
+  url('../fonts/iconfont.ttf?t=1585756084518') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../fonts/iconfont.svg?t=1585756084518#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wsdzb_zbgzt_xxzx_sjfl:before {
+  content: "\e604";
+}
+
+.icon-riqi:before {
+  content: "\e614";
+}
+
