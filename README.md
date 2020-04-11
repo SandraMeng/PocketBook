@@ -9,6 +9,8 @@ vue + vuex + vue-cli + ES6/7 + axios + node + less + element-ui
 # 项目运行
 
 ```	
+# 克隆项目
+(git bash) git clone https://github.com/SandraMeng/PocketBook
 # 安装依赖
 cd pocket-book 
 npm install 或 yarn
